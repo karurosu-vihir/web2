@@ -1,0 +1,10 @@
+.img_nav{
+    height: 100px;
+    border-radius: 50px;
+}
+
+.navbar-nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
