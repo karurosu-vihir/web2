@@ -1,0 +1,33 @@
+nav ul li:hover {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.border-danger {
+    --bs-border-opacity: 1;
+    border-color: #591F0B !important;
+}
+
+main{
+    margin-top: 63px;
+    padding-top: 30px;
+}
+
+.bg-secondary-subtle{
+    background-color: #16151d !important;
+}
+
+.hero-img{
+    background-image: url(img/coffee-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+*{
+    margin: 0;
+}
+
+.card{
+    height: 402px !important;
+}
